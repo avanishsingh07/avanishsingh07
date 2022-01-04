@@ -4,7 +4,7 @@
   <br> I'm Avanish, Machine Learning enthusiast :computer:<br>
   <br>
     <img src="https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930648540-2AG2AUX4BL35UJ6H0PEZ/e2f96-old-header-machine-learning-pt1.gif" alt="Coder GIF" width="500">
-  <img src="https://artsformysake.files.wordpress.com/2020/08/face-id-glitch.gif" alt="Coder GIF" width="500">
+  <br> <img src="https://artsformysake.files.wordpress.com/2020/08/face-id-glitch.gif" alt="Coder GIF" width="500"><br>
  </abc>
 </h2> 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
