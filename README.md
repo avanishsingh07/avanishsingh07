@@ -31,9 +31,6 @@
 - :rocket: Always ready to collaborate for ML
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
-<br>
-   <img src="https://i.pinimg.com/originals/75/57/e8/7557e86adf897ad889687b760cf0e7ce.gif" alt="face GIF">
-</abc>
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
