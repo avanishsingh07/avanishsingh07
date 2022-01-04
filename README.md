@@ -3,22 +3,21 @@
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm Avanish, Machine Learning enthusiast :computer:<br>
   <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+    <img src="https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930648540-2AG2AUX4BL35UJ6H0PEZ/e2f96-old-header-machine-learning-pt1.gif" alt="Coder GIF" width="500">
  </abc>
 </h2> 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
-    <a target="_blank"> <img src="https://www.prakalpana.com/wp-content/uploads/2020/10/machine-banner.png" alt="html5" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+    <a target="_blank"> <img src="https://www.prakalpana.com/wp-content/uploads/2020/10/machine-banner.png" alt="machine learning" width="40" height="40"/> </a>
+    <a target="_blank"> <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="pytorch" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://media.wired.com/photos/5955b14c63d43b038e9bc5e7/master/w_2560%2Cc_limit/google-tensor-flow-logo-S.jpg" alt="tensorflow" width="40" height="40"/> </a>
+    <a target="_blank"> <img src="https://mpng.subpng.com/20180805/kff/kisspng-scikit-learn-python-computer-icons-scikit-image-ma-data-science-ermlab-software-5b67c768dfc2b8.4692877115335279129165.jpg" alt="scikit-learn" width="40" height="40"/> </a>
 <a href="https://webpack.js.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a>
-      <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Python" width="40" height="40"/> </a>
+      <a target="_blank"> <img src="https://image.shutterstock.com/shutterstock/photos/1585134601/display_1500/stock-vector-head-brain-nlp-icon-vector-neuro-linguistic-programming-logo-natural-language-processing-sign-1585134601.jpg" alt="NLP" width="40" height="40"/> </a>
+    <a target="_blank"> <img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" width="40" height="40"/> </a>
+    <a target="_blank"> <img src="https://docs.anaconda.com/_images/Navigator_Launchpad_icon.png" alt="anaconda" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://images.ctfassets.net/76f8cs5bg9si/6FLCvqXO0wcsD84P6T23KH/54984093ae2e92d27910b61f06400cf2/cv.png?w=2560&q=100" alt="OpenCV" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://azure.microsoft.com/en-us/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
  <a href="https://cloud.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/> </a>
@@ -31,7 +30,9 @@
 - :hourglass_flowing_sand:  Exploring Google Cloud & Microsoft Azure
 - :rocket: Always ready to collaborate for ML
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
-- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
+- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking
+- <img src="https://artsformysake.files.wordpress.com/2020/08/face-id-glitch.gif" alt="Coder GIF" width="500">
+- <br>
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
