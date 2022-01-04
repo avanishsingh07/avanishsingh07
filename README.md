@@ -4,6 +4,7 @@
   <br> I'm Avanish, Machine Learning enthusiast :computer:<br>
   <br>
     <img src="https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930648540-2AG2AUX4BL35UJ6H0PEZ/e2f96-old-header-machine-learning-pt1.gif" alt="Coder GIF" width="500">
+  <img src="https://artsformysake.files.wordpress.com/2020/08/face-id-glitch.gif" alt="Coder GIF" width="500">
  </abc>
 </h2> 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
@@ -30,9 +31,7 @@
 - :hourglass_flowing_sand:  Exploring Google Cloud & Microsoft Azure
 - :rocket: Always ready to collaborate for ML
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
-- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking
-- <img src="https://artsformysake.files.wordpress.com/2020/08/face-id-glitch.gif" alt="Coder GIF" width="500">
-- <br>
+- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
