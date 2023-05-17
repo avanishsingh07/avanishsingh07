@@ -26,7 +26,7 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm currently working in CyberHawkz as intern
+- :computer: I'm currently working at Think Evolve Consultancy LLP.
 - :hourglass_flowing_sand:  Exploring Google Cloud & Microsoft Azure
 - :rocket: Always ready to collaborate for ML
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
